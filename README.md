@@ -17,7 +17,7 @@
 
 ## CREATE YOUR FORK
 <a href="https://github.com/Gungun243/Nanogod9/fork">
-  <img title="DEMON-CELESTE" src="https://img.shields.io/badge/FORK-DEMON-CELESTE-red?color=red&style=for-the-badge&logo=stackshare">
+  <img title="Nanogod9" src="https://img.shields.io/badge/FORK-DEMON-CELESTE-red?color=red&style=for-the-badge&logo=stackshare">
 </a>
 
 ---
