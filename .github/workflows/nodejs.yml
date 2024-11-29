@@ -36,7 +36,7 @@ jobs:
 
     - name: Start application with timeout
       run: |
-        timeout 21590s npm start  # Limits run to 5h 59m 50s
+        timeout 21590s npm start  # Limits run to 300s
 
     - name: Save state (Optional)
       run: |
